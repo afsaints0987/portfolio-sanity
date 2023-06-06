@@ -45,7 +45,13 @@ export default {
       },
     },
     {
-      name: 'link',
+      name: 'webLink',
+      title: 'Website Link',
+      type: 'url',
+    },
+    {
+      name: 'gitLink',
+      title: 'Github Link',
       type: 'url',
     },
     {
